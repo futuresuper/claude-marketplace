@@ -1,0 +1,11 @@
+{
+  "name": "FutureSuper Plugins",
+  "description": "Official FutureSuper plugins for Claude Code",
+  "plugins": [
+    {
+      "name": "fg",
+      "repository": "https://github.com/futuresuper/fg-claude-code-plugin.git",
+      "description": "Code review and simplification tools"
+    }
+  ]
+}
