@@ -1,6 +1,6 @@
 {
-  "name": "FutureSuper Plugins",
-  "description": "Official FutureSuper plugins for Claude Code",
+  "name": "future-group-tech-plugins",
+  "description": "Official Future Group tech team plugins for Claude Code",
   "plugins": [
     {
       "name": "fg",
