@@ -8,8 +8,11 @@
   "plugins": [
     {
       "name": "fg",
-      "source": "https://github.com/futuresuper/fg-claude-code-plugin.git",
-      "description": "Code review and simplification tools"
+      "description": "Code review and simplification tools",
+      "source": {
+        "source": "github",
+        "repo": "futuresuper/fg-claude-code-plugin"
+      }
     }
   ]
 }
