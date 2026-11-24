@@ -15,8 +15,8 @@
       }
     },
     {
-      "name": "ai-team",
-      "description": "AI Team: how the team works in its Jira project, as a skill",
+      "name": "ai-team-jira-process",
+      "description": "The AI Team Jira process, as a skill",
       "source": {
         "source": "github",
         "repo": "futuresuper/ai-team-claude-code-plugin"
