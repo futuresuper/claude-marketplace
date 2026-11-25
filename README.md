@@ -83,3 +83,6 @@ To get the latest version of an installed plugin:
 **Command not found:**
 - Check plugin is installed: `/plugin list`
 - Verify plugin loaded: `/help` should show `/fg:*` commands
+
+### ai-team-jira-process
+The AI Team Jira process, as a skill
