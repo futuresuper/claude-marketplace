@@ -15,7 +15,7 @@
       }
     },
     {
-      "name": "ai-team-jira-process",
+      "name": "ai-team",
       "description": "The AI Team Jira process, as a skill",
       "source": {
         "source": "github",
